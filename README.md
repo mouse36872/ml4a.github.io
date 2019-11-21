@@ -6,7 +6,7 @@ notes, demos, interactive visuals, art projects, references, further readings, e
 
 more documentation to be added soon.
 
-
+https://github.com/ellekasai/twemoji-awesome/blob/gh-pages/README.md
 
 
 
